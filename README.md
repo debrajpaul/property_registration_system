@@ -1,0 +1,2 @@
+# property_registration_system
+Blockchain is an immutable distributed ledger that is shared with everyone present on a network. Each participant interacts with the blockchain using a public–private cryptographic key combination. Moreover, the records stored on the blockchain are immutable, making them very hard to tamper with. This provides better security. A solution such as Hyperledger Fabric also offers the features to maintain users and roles, which additionally help secure and identify owners. 
