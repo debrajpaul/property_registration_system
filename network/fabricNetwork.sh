@@ -31,7 +31,7 @@ function printHelp() {
   echo
   echo "	fabricNetwork.sh generate -c registrationchannel"
   echo "	fabricNetwork up -c registrationchannel -s couchdb"
-  echo "        fabricNetwork up -c registrationchannel -s couchdb -i 1.4.0"
+  echo "  fabricNetwork up -c registrationchannel -s couchdb -i 1.4.0"
   echo "	fabricNetwork up -l node"
   echo "	fabricNetwork down -c registrationchannel"
   echo
